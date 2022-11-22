@@ -36,7 +36,7 @@ def transform_text(text):
 tfidf = pickle.load(open('vectorizer.pkl','rb'))
 model = pickle.load(open('model.pkl','rb'))
 
-st.title("SMS Spam Classifier")
+st.title("Identify genuine message and spam message")
 
 input_sms = st.text_area("Enter the message")
 
@@ -51,5 +51,5 @@ if st.button('Predict'):
     if result >= 0.7:
         st.header("Spam message")
     else:
-        st.header("Not Spam message")
+        st.header("Genuine message")
 
