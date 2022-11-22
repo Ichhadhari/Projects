@@ -20,6 +20,4 @@ Scrutinized [Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-
 ## Dataset available on kaggle
 [Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download)
 
-## Working Demo Link
 
-[Demo_Link](https://spam-sms-indentifier.herokuapp.com/)
