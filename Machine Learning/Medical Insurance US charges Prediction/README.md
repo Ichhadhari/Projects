@@ -1,4 +1,4 @@
-# Identify genuine messages and spam messages
+# Medical Insurance US Charges Prediction
 
 Scrutinized [Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) and analysis important things. Which can be use for predict charges for insurance. According to Data analysis work on model building.
 
