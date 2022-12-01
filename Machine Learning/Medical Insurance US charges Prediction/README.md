@@ -4,7 +4,7 @@ Scrutinized [Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) an
 
 ### key attributes that I worked in this project
 
-#### Data cleaning 📑🗂️🔎
+
 #### EDA📊📝
 #### Text Preprocessing🪤
 #### Model Building📱
