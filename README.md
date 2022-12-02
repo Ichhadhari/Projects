@@ -1,3 +1,3 @@
 # My Projects
 
-This repositories for my project work
+This repositories for All type project work 
