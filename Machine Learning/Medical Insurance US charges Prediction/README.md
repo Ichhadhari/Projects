@@ -1,6 +1,6 @@
 # Medical Insurance US Charges Prediction
 
-Scrutinized [Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) and analysis important things. Which can be use for predict charges for insurance. According to Data analysis work on model building.
+Scrutinized [Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) and analysis important things.In this project I will apply regression techniques of supervised learning to predict the medical insurance charges. According to Data analysis work on model building.
 
 ### key attributes that I worked in this project
 
