@@ -5,7 +5,7 @@ Scrutinized [Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) an
 ### key attributes that I worked in this project
 
 
-#### EDA📊📝
+## EDA📊📝
 Dataset consists of 1338 records. Each record contains the below data for specific person.
 
 - age – Age of the person
@@ -32,20 +32,20 @@ From the above data we can do analusis on below questions:
 - Q.5) See adult and old age peoples bmi of smokers only
 - Q.6) See people whose charges less than 20000 those are doing smoking daily
 
-#### Model Building📱
+## Model Building📱
  #### -Training and Testing
 - Splitting the data set into training and testing subsets helps to assess the performance of the model over an independent data set. Typlically, we train the model using training data subset and then evaluate the model's performance using the testing data subset, which is independent of the training data subset.
 
 - Splitting the data set also helps in having a check on model's overfitting.
 
-#### Evaluation⚖️
+## Evaluation⚖️
 As part of evaluation, I considered multiple regression algorithms like decision trees, Support Vector Machines for regression, etc. Based on the metrics, I choose to use decision tree technique for this project
 
 The goal of decision tree is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features.
-#### Using Model in backend💻
+## Using Model in backend💻
 
 I use this train model on person website, So anyone can test it.
-#### Deployment ☁️
+## Deployment ☁️
 
 For use this model by anyone, I make it online throug cloud deployment. you can test it in demo section.
 
